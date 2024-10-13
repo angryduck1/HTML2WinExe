@@ -4,11 +4,11 @@
 The most basic html code converter to an executable file (exe)
 
 <h2>Request libraries: </h2>
-`tkinter`
-`tkhtmlview`
-`bs4`
+* `tkinter`
+* `tkhtmlview`
+* `bs4`
 
-<h2>How to use?</h2>
+# How to use?
 1) Download project
 2) Extract project
 3) Install python (bro, if you're reading this, I think you know that after that you're going to have to install libraries.)
@@ -24,3 +24,6 @@ Periodically, the project will be supplemented in its free time
 // -- You can modify/rewrite this project to another language
 // -- only with this license
 // All rights reserved by @fastwolf. 2024
+
+
+
