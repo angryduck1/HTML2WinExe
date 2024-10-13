@@ -20,7 +20,9 @@ Periodically, the project will be supplemented in its free time
 
 <h3>I took the idea from FastWolf-051</h3>
 
-<h4>// Original created by fastdevil
-// -- You can modify/rewrite this project to another language
-// -- only with this license
-// All rights reserved by @fastwolf. 2024</h4>
+<h4>// Original created by fastdevil</h4>
+<h4>// -- You can modify/rewrite this project to another language</h4>
+<h4>// -- only with this license</h4>
+<h4>// All rights reserved by @fastwolf. 2024</h4>
+
+[Original Repo]: http://slashdot.org
