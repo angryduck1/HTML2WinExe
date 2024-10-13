@@ -18,7 +18,7 @@ The most basic html code converter to an executable file (exe)
 
 Periodically, the project will be supplemented in its free time
 
-<h4>I took the idea from FastWolf-051</h4>
+<h3>I took the idea from FastWolf-051</h3>
 
 // Original created by fastdevil
 // -- You can modify/rewrite this project to another language
