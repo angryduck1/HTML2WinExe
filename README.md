@@ -25,4 +25,4 @@ Periodically, the project will be supplemented in its free time
 <h4>// -- only with this license</h4>
 <h4>// All rights reserved by @fastwolf. 2024</h4>
 
-[Original Repo]: (http://slashdot.org)
+[Original Repo](http://slashdot.org)
